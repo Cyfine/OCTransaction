@@ -2,7 +2,7 @@
  * Copyright (C) 2020  CHENG Yifeng
 
    The source code is for reference only. Any other usage except reference, including but not
-   limited to distribute, copy will be considered as violation of academic integrity.
+   limited to distribute, copy for academic purposes will be considered as violation of academic integrity.
 
    You should make reasonable use of the source code of this program and abide
    by the rules of academic integrity. You should be held responsible for the punishment of plagiarism,
