@@ -1,5 +1,14 @@
 /*
- * 19251076 CHENG Yifeng
+ * Copyright (C) 2020  CHENG Yifeng
+
+   The source code is for reference only. Any other usage except reference, include but not
+   limited to distribute, copy will be considered as violation of academic integrity.
+
+   You should make reasonable use of the source code of this program and abide
+   by the rules of academic integrity. You should be held responsible for the punishment of plagiarism,
+   dissemination of this code and violation of academic integrity rules.
+   The author of the code does not assume any responsibility in connection with this punishment.
+   
  * All the functions in the demo program as been implemented including exception handling  in this work
  * , so it is fully operational.
  *
