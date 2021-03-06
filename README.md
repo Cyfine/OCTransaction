@@ -7,6 +7,6 @@ Copyright (C) 2020  CHENG Yifeng
    limited to distribute, copy for academic purposes will be considered as violation of academic integrity.
 
    You should make reasonable use of the source code of this program and abide
-   by the rules of academic integrity. You should be held responsible for the punishment of plagiarism,
+   by the rules of academic and responsible for the punishment of plagiarism,
    dissemination of this code and violation of academic integrity rules.
    The author of the code does not assume any responsibility in connection with this punishment.
